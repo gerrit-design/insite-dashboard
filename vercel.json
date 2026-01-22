@@ -1,5 +1,1 @@
-{
-  "buildCommand": "cd insite-dashboard-flat && npm run build",
-  "outputDirectory": "insite-dashboard-flat/dist",
-  "installCommand": "cd insite-dashboard-flat && npm install"
-}
+{}
